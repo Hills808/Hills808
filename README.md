@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2600&pause=900&color=00D9FF&center=true&vCenter=true&width=850&lines=%3E+Booting+HenriqueOS...;%3E+Software+Engineering+Intern+%40+XP+Inc.;%3E+Building+with+C%23+%2F+.NET;%3E+Exploring+Backend+Engineering+%26+AI;%3E+Turning+ideas+into+working+systems." alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2600&pause=850&color=00D9FF&center=true&vCenter=true&width=900&lines=%3E+Initializing+HenriqueOS...;%3E+Software+Engineering+Intern+%40+XP+Inc.;%3E+Building+with+C%23+%2F+.NET;%3E+Exploring+Backend+Engineering+%26+AI;%3E+Turning+ideas+into+working+systems." alt="Typing animation"/>
 
 <br><br>
 
@@ -22,19 +22,20 @@
 
 <table>
 <tr>
+
 <td width="62%" valign="top">
 
 ### Henrique Hills
 
 I'm a **Software Engineering Intern at XP Inc.**, currently focused on **C#/.NET, backend development and Artificial Intelligence**.
 
-My path into software engineering started with a broad programming foundation and evolved through hands-on projects, IT experience and continuous learning.
+My path into software engineering was built through programming studies, academic projects, IT experience and continuous learning.
 
-Today, I'm concentrating that experience around a clearer direction:
+Today, my career is becoming increasingly focused on a clear direction:
 
 **Backend Engineering + C#/.NET + AI**
 
-I'm particularly interested in understanding not only how to make software work, but how the pieces behind it connect — APIs, services, data, architecture and intelligent systems.
+I'm interested in understanding how complete systems work — from APIs and services to data, architecture and intelligent applications.
 
 </td>
 
@@ -47,6 +48,9 @@ I'm particularly interested in understanding not only how to make software work,
 │ ROLE                         │
 │ Software Engineering Intern  │
 │                              │
+│ COMPANY                      │
+│ XP Inc.                      │
+│                              │
 │ CURRENT FOCUS                │
 │ C# / .NET                    │
 │ Backend                      │
@@ -54,14 +58,11 @@ I'm particularly interested in understanding not only how to make software work,
 │                              │
 │ EDUCATION                    │
 │ ADS — UNIP                   │
-│                              │
-│ BASE                         │
-│ Python • Java • C • C++      │
-│ JavaScript • SQL             │
 └──────────────────────────────┘
 ```
 
 </td>
+
 </tr>
 </table>
 
@@ -75,45 +76,49 @@ I'm particularly interested in understanding not only how to make software work,
 
 **Software Engineering Intern**
 
-`C# / .NET`  •  `Backend`  •  `AI`
+`C# / .NET`  •  `Backend`  •  `Artificial Intelligence`
 
 </div>
 
-My current professional direction is software engineering at **XP Inc.**, where I'm developing my experience in the software development ecosystem with a strong focus on **C#/.NET and Artificial Intelligence**.
+My current professional stage is focused on developing myself as a **Software Engineer**, with **C#/.NET** as the main technology direction.
 
-This is the stage of my career where I'm turning the programming foundation I've built through university, personal projects and previous IT experience into a more focused software engineering path.
+I'm using this phase to strengthen my backend knowledge, improve my software engineering fundamentals and deepen my understanding of how real-world systems are built.
 
 ---
 
-## `03 // THE PATH SO FAR`
+## `03 // THE PATH`
 
 ```text
-                    SOFTWARE ENGINEERING PATH
+                       HENRIQUE'S PATH
                               │
                               ▼
-┌─────────────────────────────────────────────────────────────┐
-│  Programming Foundation                                     │
-│  Python • Java • C • C++ • JavaScript • Web                 │
-└──────────────────────────────┬──────────────────────────────┘
+┌──────────────────────────────────────────────────────────────┐
+│                    PROGRAMMING FOUNDATION                     │
+│                                                              │
+│  Python • Java • C • C++ • JavaScript • HTML • CSS           │
+└──────────────────────────────┬───────────────────────────────┘
                                │
                                ▼
-┌─────────────────────────────────────────────────────────────┐
-│  IT Experience                                               │
+┌──────────────────────────────────────────────────────────────┐
+│                         IT EXPERIENCE                         │
+│                                                              │
 │  3AM IT Services → Stefanini                                 │
-│  Infrastructure / IT operations / systems & data            │
-└──────────────────────────────┬──────────────────────────────┘
+│  Experience with IT operations, technology and systems        │
+└──────────────────────────────┬───────────────────────────────┘
                                │
                                ▼
-┌─────────────────────────────────────────────────────────────┐
-│  Academic Projects                                           │
-│  Image Processing • Web Development • AI                    │
-└──────────────────────────────┬──────────────────────────────┘
+┌──────────────────────────────────────────────────────────────┐
+│                       ACADEMIC PROJECTS                       │
+│                                                              │
+│  Image Processing • Web Development • Artificial Intelligence│
+└──────────────────────────────┬───────────────────────────────┘
                                │
                                ▼
-┌─────────────────────────────────────────────────────────────┐
-│  XP Inc.                                                     │
-│  Software Engineering • C#/.NET • AI                         │
-└──────────────────────────────┬──────────────────────────────┘
+┌──────────────────────────────────────────────────────────────┐
+│                           XP INC.                             │
+│                                                              │
+│  Software Engineering • C#/.NET • Backend • AI               │
+└──────────────────────────────┬───────────────────────────────┘
                                │
                                ▼
                     BACKEND + AI ENGINEERING
@@ -121,63 +126,45 @@ This is the stage of my career where I'm turning the programming foundation I've
 
 ---
 
-# `04 // WHAT I ACTUALLY BUILD WITH`
+## `04 // TECHNOLOGY`
 
 <div align="center">
 
-### Core
+### `CURRENT FOCUS`
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,python,git,github&theme=dark" />
-
-<br><br>
-
-### Data & APIs
-
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,oracle,fastapi,flask&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,python,git,github&theme=dark"/>
 
 <br><br>
 
-### Web & Programming Foundation
+### `BACKEND / DATA`
 
-<img src="https://skillicons.dev/icons?i=java,c,cpp,js,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=fastapi,flask,mysql,sqlite,oracle&theme=dark"/>
+
+<br><br>
+
+### `PROGRAMMING FOUNDATION`
+
+<img src="https://skillicons.dev/icons?i=java,c,cpp,js,html,css&theme=dark"/>
+
+<br><br>
+
+### `DEVELOPMENT TOOLS`
+
+<img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github&theme=dark"/>
 
 </div>
 
 <br>
 
-<table>
-<tr>
-<td width="33%" align="center">
-
-### `PRIMARY`
-
-**C# / .NET**
-
-Current professional focus and the main direction of my software engineering development.
-
-</td>
-
-<td width="33%" align="center">
-
-### `PROJECTS`
-
-**Python / AI / APIs**
-
-Used across academic and personal projects, including image processing and AI systems.
-
-</td>
-
-<td width="33%" align="center">
-
-### `FOUNDATION`
-
-**Java / C / C++ / Web**
-
-Programming languages and technologies that contributed to my technical foundation.
-
-</td>
-</tr>
-</table>
+| Area                       | Technologies                        |
+| -------------------------- | ----------------------------------- |
+| **Primary direction**      | C# / .NET                           |
+| **Backend**                | ASP.NET Core, FastAPI, Flask        |
+| **AI**                     | OpenAI APIs                         |
+| **Databases**              | MySQL, SQLite, Oracle               |
+| **Programming foundation** | Python, Java, C, C++, JavaScript    |
+| **Web**                    | HTML, CSS                           |
+| **Development**            | Visual Studio, VS Code, Git, GitHub |
 
 ---
 
@@ -193,57 +180,59 @@ Programming languages and technologies that contributed to my technical foundati
 
 </div>
 
-### AI-powered visual assistance
+### AI Visual Assistant
 
 **Visiora AI** is an academic project focused on creating an AI-based visual assistant for people with visual impairment.
 
-The project connects **computer vision, backend development, AI analysis and audio feedback** into a single system.
+The system combines **camera input, a C# backend, AI image analysis and audio feedback** into a single application.
 
 ```text
                          VISIORA AI
                               │
                               ▼
                     ┌──────────────────┐
-                    │     Camera       │
+                    │      CAMERA      │
                     │  Image Capture   │
                     └────────┬─────────┘
                              │
                              ▼
                     ┌──────────────────┐
                     │   ASP.NET Core   │
-                    │      C#          │
+                    │       C#         │
                     └────────┬─────────┘
                              │
                              ▼
                     ┌──────────────────┐
-                    │   AI Analysis    │
-                    │     OpenAI       │
+                    │   AI ANALYSIS    │
+                    │      OpenAI      │
                     └────────┬─────────┘
                              │
                              ▼
                     ┌──────────────────┐
-                    │ Context / JSON   │
+                    │   JSON / CONTEXT │
                     └────────┬─────────┘
                              │
                              ▼
                     ┌──────────────────┐
-                    │  Audio Feedback  │
+                    │  AUDIO FEEDBACK  │
                     └──────────────────┘
 ```
 
-### What makes this project relevant to my path
+### Why Visiora matters to my journey
 
-Visiora is one of the projects that best represents the direction I want to follow:
+Visiora represents one of the clearest intersections between the areas I'm pursuing:
 
 `C#` → `Backend` → `APIs` → `AI` → `Real-world application`
 
-It is also where I started exploring challenges beyond simply calling an AI model — including **continuous image analysis, contextual responses, audio feedback and environment awareness**.
+The project also led me to explore challenges such as **continuous analysis, contextual responses, audio interaction and environment awareness**.
 
-**Repository:** [Hills808/Visiora](https://github.com/Hills808/Visiora)
+<a href="https://github.com/Hills808/Visiora">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 ---
 
-# `06 // OTHER WORK`
+# `06 // OTHER PROJECT`
 
 ## `LUMINA`
 
@@ -255,39 +244,39 @@ It is also where I started exploring challenges beyond simply calling an AI mode
 
 </div>
 
-An academic web project developed as part of my university work.
+An academic web project developed during my university journey, contributing to my experience with **web development, interface structure and application organization**.
 
-The project represents another part of my development journey, particularly around **web interfaces, frontend structure and the connection between frontend and backend**.
-
-**Repository:** [Hills808/lumina-academic-reveal](https://github.com/Hills808/lumina-academic-reveal)
+<a href="https://github.com/Hills808/lumina-academic-reveal">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 ---
 
-# `07 // WHAT I'M WORKING TOWARDS`
+# `07 // CURRENT OBJECTIVES`
 
 ```text
 ┌─────────────────────────────────────────────────────────────────┐
 │                    CURRENT DEVELOPMENT PATH                     │
 ├─────────────────────────────────────────────────────────────────┤
 │                                                                 │
-│  [01]  Strengthen C# and the .NET ecosystem                     │
+│  > Strengthen C# and the .NET ecosystem                         │
 │                                                                 │
-│  [02]  Grow as a Backend Software Engineer                      │
+│  > Grow as a Backend Software Engineer                          │
 │                                                                 │
-│  [03]  Improve API and system architecture knowledge            │
+│  > Improve API and system architecture knowledge                │
 │                                                                 │
-│  [04]  Build deeper practical knowledge in Artificial           │
-│        Intelligence and AI-powered applications                 │
+│  > Deepen practical knowledge in Artificial Intelligence        │
 │                                                                 │
-│  [05]  Turn academic and personal projects into stronger         │
-│        engineering experiences                                   │
+│  > Build stronger and more complete software projects           │
+│                                                                 │
+│  > Transform learning into real engineering experience          │
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-# `08 // GITHUB ACTIVITY`
+# `08 // GITHUB STATS`
 
 <div align="center">
 
@@ -321,27 +310,7 @@ The project represents another part of my development journey, particularly arou
 
 ---
 
-# `10 // ACHIEVEMENTS`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Hills808&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"/>
-
-</div>
-
----
-
-# `11 // CONTRIBUTION SNAKE`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Hills808/Hills808/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
-
-</div>
-
----
-
-# `12 // FIND ME`
+# `10 // CONTACT`
 
 <div align="center">
 
@@ -357,19 +326,18 @@ The project represents another part of my development journey, particularly arou
 
 <br>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:00D9FF,50:0B1620,100:05070A&animation=fadeIn"/>
+
 ```text
 > END_OF_TRANSMISSION
 
+HENRIQUE HILLS
 Software Engineering
 C# / .NET
 Backend
 Artificial Intelligence
 
-HENRIQUE HILLS // 2026
+© 2026
 ```
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:00D9FF,50:0B1620,100:05070A"/>
 
 </div>
