@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/Hills808">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:05070A,45:0B1822,100:00D9FF&text=HENRIQUE%20HILLS&fontColor=FFFFFF&fontSize=52&fontAlignY=37&desc=SOFTWARE%20ENGINEERING%20%7C%20C%23%20%2F%20.NET%20%7C%20AI&descAlignY=61&descSize=17&animation=fadeIn" width="100%" alt="Henrique Hills"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:05070A,45:0B1822,100:00D9FF&text=HENRIQUE%20HILLS&fontColor=FFFFFF&fontSize=52&fontAlignY=37&desc=SOFTWARE%20ENGINEERING%20%7C%20C%23%20%2F%20.NET%20%7C%20AI&descAlignY=61&descSize=17&animation=fadeIn" width="100%" alt="Henrique Alexandre"/>
 </a>
 
 <br>
